@@ -1,6 +1,5 @@
 # OpenRegs - Knowledge Graph of ADGM Regulations
 Regulatory Knowledge Graph built in collaboration with Abu Dhabi Global Market.
-O
 [Original paper: A case study for Compliance as Code with graphs and language models: public release of the Regulatory Knowledge Graph
 ](https://4623737.fs1.hubspotusercontent-na1.net/hubfs/4623737/kg_stage1.pdf).
 
@@ -25,7 +24,7 @@ The project got inspiration from the DARPA's research around surveillance of the
 and text feeds were parsed by ML to extract events, event's time, event's place, entities involved and 
 other supplementary information and store that in the Knowledge DB for a downstream analysis.
 Find more details on how it is applicable to the RegTech and compliance and more insights for higher 
-level vision of the Knowledge Graph project [here in athe article at Linkedin](https://www.linkedin.com/pulse/unboxing-skynet-regulatory-compliance-vladimir-ershov/?trackingId=LtVM0rfPFtYOUjR2%2BF1c8w%3D%3D)
+level vision of the Knowledge Graph project [here in the article at Linkedin](https://www.linkedin.com/pulse/unboxing-skynet-regulatory-compliance-vladimir-ershov/?trackingId=LtVM0rfPFtYOUjR2%2BF1c8w%3D%3D)
 
 # Getting started
 
